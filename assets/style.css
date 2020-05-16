@@ -9,24 +9,25 @@
     font-size: -webkit-xxx-large;
     line-height: inherit;
     white-space: nowrap;
-    word-spacing: 0em;
+    word-spacing: 0rem;
 }
 body {
     margin: 0;
-    font-family: serif;
-    font-size: large;
     font-weight: 600;
     line-height: normal;
     color: lightcyan;
     text-align: left;
     background-color:ivory;
-    word-spacing: 2em;
+    word-spacing: 2rem;
 }
-
-a {
-    color: silver;
-    text-decoration: none;
-    text-transform: uppercase;
+    a {
+        color: silver;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size: x-large;
+        font-family: serif;
+        word-spacing: 2rem;
+    }
 }
 
 dl, ol, ul {
@@ -41,5 +42,13 @@ dl, ol, ul {
     font-size: large;
     font-weight: normal;
     word-spacing: normal;
+    color: black;
 }
-
+.card-img, .card-img-top {
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px);
+    font-size: large;
+    font-family: serif;
+    color: black;
+    word-spacing: normal;
+}
