@@ -9,6 +9,7 @@
     font-size: -webkit-xxx-large;
     line-height: inherit;
     white-space: nowrap;
+    word-spacing: 0em;
 }
 body {
     margin: 0;
@@ -19,11 +20,13 @@ body {
     color: lightcyan;
     text-align: left;
     background-color: #fff;
+    word-spacing: 2em;
 }
 
 a {
     color: silver;
     text-decoration: none;
+    text-transform: uppercase;
 }
 
 dl, ol, ul {
