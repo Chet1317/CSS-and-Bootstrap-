@@ -1,13 +1,21 @@
 .bg-light {
     background-color: #0062cc!important;
 }
-
+.navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: -webkit-xxx-large;
+    line-height: inherit;
+    white-space: nowrap;
+}
 body {
     margin: 0;
-    font-family: fantasy;
-    font-size: 1rem;
-    font-weight: 900;
-    line-height: 1.5;
+    font-family: serif;
+    font-size: large;
+    font-weight: 600;
+    line-height: normal;
     color: lightcyan;
     text-align: left;
     background-color: #fff;
@@ -17,3 +25,4 @@ a {
     color: silver;
     text-decoration: none;
 }
+
