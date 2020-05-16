@@ -26,11 +26,8 @@ a {
     text-decoration: none;
 }
 
-
-element.style {
-}
 dl, ol, ul {
-    /* margin-top: 0; */
+    margin-top: 1rem;
     margin-bottom: 1rem;
 }
 
