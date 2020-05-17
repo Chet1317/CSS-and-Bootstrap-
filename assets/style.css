@@ -36,19 +36,11 @@ dl, ol, ul {
     margin-right: 1rem;
 }
 
-.card-text:last-child {
-    margin-bottom: 0;
-    font-family: serif;
-    font-size: large;
-    font-weight: normal;
-    word-spacing: normal;
-    color: black;
-}
-.card-img, .card-img-top {
-    border-top-left-radius: calc(.25rem - 1px);
-    border-top-right-radius: calc(.25rem - 1px);
-    font-size: large;
-    font-family: serif;
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
     color: black;
     word-spacing: normal;
 }
