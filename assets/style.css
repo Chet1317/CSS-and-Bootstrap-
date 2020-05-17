@@ -21,14 +21,13 @@ body {
     word-spacing: 2rem;
 }
     a {
-        color: silver;
+        color: #f5de99;
         text-decoration: none;
         text-transform: uppercase;
         font-size: x-large;
         font-family: serif;
         word-spacing: 2rem;
     }
-}
 
 dl, ol, ul {
     margin-top: 1rem;
@@ -43,4 +42,17 @@ dl, ol, ul {
     padding: 1.25rem;
     color: black;
     word-spacing: normal;
+}
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: inline-block;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 10px solid rgb(125, 87, 9);
+    border-radius: .25rem;
 }
