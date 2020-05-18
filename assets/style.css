@@ -18,7 +18,7 @@ body {
     color: lightcyan;
     text-align: left;
     background-image: url(https://i1.wp.com/crossfit604.com/wp-content/uploads/2018/04/Rogue-Barbell.jpg?ssl=1);
-    word-spacing: 2rem;
+
 }
     a {
         color: #f5de99;
@@ -26,13 +26,13 @@ body {
         text-transform: uppercase;
         font-size: x-large;
         font-family: serif;
-        word-spacing: 2rem;
     }
 
 dl, ol, ul {
     margin-top: 1rem;
     margin-bottom: 1rem;
     margin-right: 1rem;
+    word-spacing: 2rem;
 }
 
 .card-body {
