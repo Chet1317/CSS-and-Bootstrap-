@@ -1,5 +1,5 @@
 .bg-light {
-    background-color: #0062cc!important;
+    background-color: #9ac9f9!important;
 }
 .navbar-brand {
     display: inline-block;
@@ -10,6 +10,11 @@
     line-height: inherit;
     white-space: nowrap;
     word-spacing: 0rem;
+
+}
+
+.navbar-light .navbar-brand {
+    color: #09054c;
 }
 body {
     margin: 0;
@@ -21,7 +26,7 @@ body {
 
 }
     a {
-        color: #f5de99;
+        color: #b10021;
         text-decoration: none;
         text-transform: uppercase;
         font-size: x-large;
@@ -53,7 +58,7 @@ dl, ol, ul {
     word-wrap: break-word;
     background-color: #fff;
     background-clip: border-box;
-    border: 10px solid rgb(125, 87, 9);
+    border: 10px solid rgb(212, 162, 58);
     border-radius: .25rem;
     margin-top: 2rem;
 }
