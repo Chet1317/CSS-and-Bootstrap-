@@ -1,5 +1,5 @@
 .bg-light {
-    background-color: #9ac9f9!important;
+    background-color: #032241!important;
 }
 .navbar-brand {
     display: inline-block;
@@ -14,7 +14,7 @@
 }
 
 .navbar-light .navbar-brand {
-    color: #09054c;
+    color: #c0beec;
 }
 body {
     margin: 0;
