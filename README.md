@@ -1,11 +1,9 @@
-# Homework--2
-CSS Bootsrap unit 2 
-Objective was to create a website about myslef with an "About", a "Portfolio", and a "Contact Page" 
-Links and a navigation bar had to be created to move from these pages 
-I had to also input cards with picture and text using Bootstrap
+# Portfolio
 
-Minimum Requirements were:
+# Description 
+Porfolio describing my backgroound and recent of projects and accomplishments thus far in web development. 
 
+# Includes 
 Functional, deployed application
 GitHub repository with README describing the project
 Navbar must be consistent on each page.
