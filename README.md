@@ -1,4 +1,4 @@
-# Homework--2
+Portfolio
 CSS Bootsrap unit 2 
 Objective was to create a website about myslef with an "About", a "Portfolio", and a "Contact Page" 
 Links and a navigation bar had to be created to move from these pages 
